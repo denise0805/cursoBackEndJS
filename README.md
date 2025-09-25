@@ -1,12 +1,7 @@
-\# Curso de Backend JS
+# Curso de Back End JS
 
 
+## Conteúdo do curso
 
-\[link para o site](https://github.com/denise0805/backendjs.git)
-
-
-
-
-
-\## Conteúdo do curso
+- [Pasta do curso](https://drive.google.com/drive/folders/1VXL1CAnWOruqvD-TtMLZU4d8Iv_iBbCd)
 
